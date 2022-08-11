@@ -1,6 +1,6 @@
-# Projeto em Desenvolvimento de Software
+# Projeto em Sistemas Inteligentes
 
-Turma 7
+Turma 32
 
 ---
 
@@ -11,7 +11,7 @@ As ATAs de reuniões são resumos de TUDO que aconteceu em cada uma das aulas (r
 Cada arquivo representa uma ATA de reunião. Para acessar as ATAs clique no link abaixo:
 
 <p style="font-size:2.3em;text-align:center">
-    <a href="https://drive.google.com/drive/folders/1HgleOaCalASF6wCRB1EwK5OVWtVj4azw?usp=sharing" target="_blank">Pasta de ATAs</a>
+    <a href="" target="_blank">Pasta de ATAs</a>
 </p>
 
 Lembre-se que é necessário utilizar o e-mail INSTITUCIONAL para acessar a pasta de ATAs do projeto.
@@ -24,7 +24,7 @@ As entregas do projeto estão definidas na tabela abaixo (será montada em breve
 
 | Deadline |      Descrição      | Prazo      | Valor | Detalhamento                                                                                                    |
 |:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
-|    1     | Formação de equipes | 01.09, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1FzpLixqdC8xUExssWjif-CZge2Vs5dKuQvuH7nf6WA0/edit?usp=sharing) |
+|    1     | Formação de equipes | 01.09, 11h |   1   |[Detalhamento]() |
 |    2     | -                   | -          |   -   | Em breve        |
 |    3     | -                   | -          |   -   | Em breve        |
 |    4     | -                   | -          |   -   | Em breve        |
@@ -34,8 +34,4 @@ As entregas do projeto estão definidas na tabela abaixo (será montada em breve
 
 ## Disciplinas do módulo
 
-- Modelagem de BD - Ana
-- Desenvol. em Banco de Dados - Ana Leda
-- Algoritmos e Lóg. de Prog. - Leandro Mota
-- Desenvolvimento para Internet (EaD)
-- Projeto - Prof. Traue
+
