@@ -34,4 +34,7 @@ As entregas do projeto estão definidas na tabela abaixo (será montada em breve
 
 ## Disciplinas do módulo
 
-
+- Métodos numéricos computacionais - Profª Debora
+- Modelagem e Simulação - Prof. Librantz
+- Inteligência Artificial - Prof. Romualdo
+- Automação de Processos (EaD)
