@@ -22,6 +22,16 @@ Se você chegou à disciplina após seu início, leia cada uma das ATAs em ordem
 
 As entregas do projeto estão definidas na tabela abaixo (será montada em breve).
 
+| Deadline |      Descrição      | Prazo      | Valor | Detalhamento                                                                                                    |
+|:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
+|    1     | Formação de equipes | 01.09, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1FzpLixqdC8xUExssWjif-CZge2Vs5dKuQvuH7nf6WA0/edit?usp=sharing) |
+|    2     | -                   | -          |   -   | Em breve        |
+|    3     | -                   | -          |   -   | Em breve        |
+|    4     | -                   | -          |   -   | Em breve        |
+|    5     | -                   | -          |   -   | Em breve        |
+|    6     | Doc. Final          | -          |   -   | Em breve        |
+|    7     | Apresentação        | -          |   -   | Em breve        |
+
 ## Disciplinas do módulo
 
 - Modelagem de BD - Ana
