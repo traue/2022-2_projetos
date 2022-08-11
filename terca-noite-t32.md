@@ -11,7 +11,7 @@ As ATAs de reuniões são resumos de TUDO que aconteceu em cada uma das aulas (r
 Cada arquivo representa uma ATA de reunião. Para acessar as ATAs clique no link abaixo:
 
 <p style="font-size:2.3em;text-align:center">
-    <a href="" target="_blank">Pasta de ATAs</a>
+    <a href="https://drive.google.com/drive/folders/1epI77N9VS556L4ASIgp-8iu38z15h9Zv?usp=sharing" target="_blank">Pasta de ATAs</a>
 </p>
 
 Lembre-se que é necessário utilizar o e-mail INSTITUCIONAL para acessar a pasta de ATAs do projeto.
@@ -24,7 +24,7 @@ As entregas do projeto estão definidas na tabela abaixo (será montada em breve
 
 | Deadline |      Descrição      | Prazo      | Valor | Detalhamento                                                                                                    |
 |:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
-|    1     | Formação de equipes | 01.09, 11h |   1   |[Detalhamento]() |
+|    1     | Formação de equipes | 01.09, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1ZrLYoBsudFIADdn1tVF8keN4rmhyuHO9raMU4Eyu0hY/edit?usp=sharing) |
 |    2     | -                   | -          |   -   | Em breve        |
 |    3     | -                   | -          |   -   | Em breve        |
 |    4     | -                   | -          |   -   | Em breve        |
