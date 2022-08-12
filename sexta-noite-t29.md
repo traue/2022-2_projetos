@@ -29,7 +29,7 @@ As entregas do projeto estão definidas na tabela abaixo. Acesse o docuemnto com
 
 | Deadline |      Descrição      | Prazo      | Valor | Detalhamento                                                                                                    |
 |:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
-|    1     | Formação de equipes | 01.09, 11h |   1   |[Detalhamento]() |
+|    1     | Formação de equipes | 01.09, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1WJ147vjFmjS4DCl0_S17NnDZonsWNw0_chZ2gSZnAOo/edit?usp=sharing) |
 |    2     | -                   | -          |   -   | Em breve        |
 |    3     | -                   | -          |   -   | Em breve        |
 |    4     | -                   | -          |   -   | Em breve        |
