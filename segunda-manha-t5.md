@@ -20,8 +20,6 @@ Se você chegou à disciplina após seu início, leia cada uma das ATAs em ordem
 
 ## Entregas do projeto
 
-## Entregas do projeto
-
 As entregas do projeto estão definidas na tabela abaixo. Acesse o docuemnto com os devidos detalhamentos da respectiva deadline usando seu e-mail institucional (@uni9.edu.br).
 
 | Deadline |      Descrição      | Prazo      | Valor | Detalhamento                                                                                                    |
