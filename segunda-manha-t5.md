@@ -20,4 +20,16 @@ Se você chegou à disciplina após seu início, leia cada uma das ATAs em ordem
 
 ## Entregas do projeto
 
-As entregas do projeto estão definidas na tabela abaixo (será montada em breve).
+## Entregas do projeto
+
+As entregas do projeto estão definidas na tabela abaixo. Acesse o docuemnto com os devidos detalhamentos da respectiva deadline usando seu e-mail institucional (@uni9.edu.br).
+
+| Deadline |      Descrição      | Prazo      | Valor | Detalhamento                                                                                                    |
+|:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
+|    1     | Formação de equipes | 05.09, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1MTmZUc8gn-ejQVgorNK-Q6mYvckAr97u4u7VqAQ_m8o/edit?usp=sharing) |
+|    2     | -                   | -          |   -   | Em breve        |
+|    3     | -                   | -          |   -   | Em breve        |
+|    4     | -                   | -          |   -   | Em breve        |
+|    5     | -                   | -          |   -   | Em breve        |
+|    6     | Doc. Final          | -          |   -   | Em breve        |
+|    7     | Apresentação        | -          |   -   | Em breve        |
