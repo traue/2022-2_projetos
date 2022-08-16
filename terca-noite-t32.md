@@ -1,6 +1,8 @@
 # Projeto em Sistemas Inteligentes
 
-Turma 32
+Turma 32 - Terças e quintas - noturno
+
+Classroom do projeto: [NESTE LINK](https://classroom.google.com/c/NDg4ODEyMTg1NjM3?cjc=b4hvrys)
 
 ---
 
@@ -25,7 +27,7 @@ As entregas do projeto estão definidas na tabela abaixo (será montada em breve
 | Deadline |      Descrição      | Prazo      | Valor | Detalhamento                                                                                                    |
 |:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
 |    1     | Formação de equipes | 01.09, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1ZrLYoBsudFIADdn1tVF8keN4rmhyuHO9raMU4Eyu0hY/edit?usp=sharing) |
-|    2     | -                   | -          |   -   | Em breve        |
+|    2     | TAP                 | -          |   2   |[Detalhamento](https://docs.google.com/document/d/1LjQUfRZJGk_NCiGoukCPWICMYGbFyFa6ItfZgzdueW0/edit?usp=sharing)]|
 |    3     | -                   | -          |   -   | Em breve        |
 |    4     | -                   | -          |   -   | Em breve        |
 |    5     | -                   | -          |   -   | Em breve        |
@@ -38,3 +40,7 @@ As entregas do projeto estão definidas na tabela abaixo (será montada em breve
 - Modelagem e Simulação - Prof. Librantz
 - Inteligência Artificial - Prof. Romualdo
 - Automação de Processos (EaD)
+
+## Dúvidas sobre o projeto
+
+Todas as dúvidas sobre o projeto devem ser sanadas o quanto antes, via e-mail ao professor orientador ou ao vivo, durante as reuniões de orientação.
