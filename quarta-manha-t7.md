@@ -1,6 +1,6 @@
 # Projeto em Desenvolvimento de Software
 
-Turma 7
+Turma 7 - Quartas e quintas - Diurno
 
 ---
 
@@ -25,7 +25,7 @@ As entregas do projeto estão definidas na tabela abaixo (será montada em breve
 | Deadline |      Descrição      | Prazo      | Valor | Detalhamento                                                                                                    |
 |:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
 |    1     | Formação de equipes | 01.09, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1FzpLixqdC8xUExssWjif-CZge2Vs5dKuQvuH7nf6WA0/edit?usp=sharing) |
-|    2     | -                   | -          |   -   | Em breve        |
+|    2     | TAP                 | 14.09, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1j-bS0RQTAmJSsuFBCcEbmonRTeiEV48PgwPHk4yTYYg/edit?usp=sharing) |
 |    3     | -                   | -          |   -   | Em breve        |
 |    4     | -                   | -          |   -   | Em breve        |
 |    5     | -                   | -          |   -   | Em breve        |
