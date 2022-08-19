@@ -7,6 +7,8 @@ Turma 29
 - Prof. Gabriel N. Galan (terças)
 - Prof. Thiago G. Traue (sextas)
 
+**Classroom do projeto:** [NESTE LINK](https://classroom.google.com/c/NDg4ODEyMTQyMDg0?cjc=qy7kpx6)
+
 ---
 
 ## Atas de reuniões
