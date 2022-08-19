@@ -29,7 +29,7 @@ As entregas do projeto estão definidas na tabela abaixo (será montada em breve
 | Deadline |      Descrição      | Prazo      | Valor | Detalhamento                                                                                                    |
 |:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
 |    1     | Formação de equipes | 09.09, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1UMGULClScnbdKANkGfLjZZfZNRJyhFNxXsu1A8xK6WA/edit?usp=sharing) |
-|    2     | -                   | -          |   -   | Em breve        |
+|    2     | Definição do Negócio| 16.09, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1HXxUGNbR9aS3p3J_quFc0VPVkZDLJbJS_sRn4JuYJsk/edit?usp=sharing) |
 |    3     | -                   | -          |   -   | Em breve        |
 |    4     | -                   | -          |   -   | Em breve        |
 |    5     | -                   | -          |   -   | Em breve        |
