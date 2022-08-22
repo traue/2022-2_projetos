@@ -1,6 +1,6 @@
 # Projeto em Computação Aplicada
 
-Turma 5
+Turma 5 - Segundas - Diurno
 
 ---
 
@@ -31,3 +31,10 @@ As entregas do projeto estão definidas na tabela abaixo. Acesse o docuemnto com
 |    5     | -                   | -          |   -   | Em breve        |
 |    6     | Doc. Final          | -          |   -   | Em breve        |
 |    7     | Apresentação        | -          |   -   | Em breve        |
+
+## Disciplinas do módulo
+
+- Estruturas de Dados (Prof. Traue)
+- Montadores e Compiladores (Prof. Sergio João)
+- Linguagens Formais e Autômatos (Prof. Klein)
+- Sistemas Distribuídos (Prof. Edson)
