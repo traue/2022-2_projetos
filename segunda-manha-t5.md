@@ -2,6 +2,8 @@
 
 Turma 5 - Segundas - Diurno
 
+Classroom: [NEST LINK](https://classroom.google.com/c/NDg4ODEyMTQzMjA1?cjc=vhp5fwt)
+
 ---
 
 ## Atas de reuniões
