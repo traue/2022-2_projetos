@@ -2,7 +2,7 @@
 
 Turma 5 - Segundas - Diurno
 
-Classroom: [NEST LINK](https://classroom.google.com/c/NDg4ODEyMTQzMjA1?cjc=vhp5fwt)
+Classroom: [NESTE LINK](https://classroom.google.com/c/NDg4ODEyMTQzMjA1?cjc=vhp5fwt)
 
 ---
 
