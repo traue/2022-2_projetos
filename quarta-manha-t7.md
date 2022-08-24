@@ -29,7 +29,7 @@ As entregas do projeto estão definidas na tabela abaixo (será montada em breve
 |    1     | Formação de equipes | 01.09, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1FzpLixqdC8xUExssWjif-CZge2Vs5dKuQvuH7nf6WA0/edit?usp=sharing) |
 |    2     | TAP                 | 14.09, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1j-bS0RQTAmJSsuFBCcEbmonRTeiEV48PgwPHk4yTYYg/edit?usp=sharing) |
 |    3     | Requisitos          | 28.09, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1kAE_XKz4SVILhbivOqYNNQoDyBfMzXvxtW0I2Z2it3Q/edit?usp=sharing) |
-|    4     | -                   | -          |   -   | Em breve        |
+|    4     | Landing Page        | 19.10, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/16Ye75wUGG44SU6HRoD436XkaQ4lzekwxeLpA6d__5is/edit?usp=sharing) |
 |    5     | -                   | -          |   -   | Em breve        |
 |    6     | Doc. Final          | -          |   -   | Em breve        |
 |    7     | Apresentação        | -          |   -   | Em breve        |
