@@ -26,8 +26,8 @@ As entregas do projeto estão definidas na tabela abaixo (será montada em breve
 
 | Deadline |      Descrição      | Prazo      | Valor | Detalhamento                                                                                                    |
 |:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
-|    1     | Formação de equipes | 14.09, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1Z3iMm3e_wgP5c6HLe2Csae5AhlYuZnxX-Kp6YaOLbQg/edit?usp=sharing) |
-|    2     | -                   | -          |   -   | Em breve        |
+|    1     | Formação de equipes | 14.09, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1Z3iMm3e_wgP5c6HLe2Csae5AhlYuZnxX-Kp6YaOLbQg/edit?usp=sharing) |
+|    2     | TAP                 | 21.09, 18h |   -   |[Detalhamento](https://docs.google.com/document/d/1LTeKk7ZmWY5JIUyU15uwu--IU5g4M2y4J9ofVTGW2gc/edit?usp=sharing) |
 |    3     | -                   | -          |   -   | Em breve        |
 |    4     | -                   | -          |   -   | Em breve        |
 |    5     | -                   | -          |   -   | Em breve        |
