@@ -30,7 +30,7 @@ As entregas do projeto estão definidas na tabela abaixo (será montada em breve
 |    2     | TAP                 | 13.09, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1LjQUfRZJGk_NCiGoukCPWICMYGbFyFa6ItfZgzdueW0/edit?usp=sharing) |
 |    3     | Definição da IA     | 29.09, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1ZMkG9KNz7ilf7tmuzGLTD_2r5P_Px9vkDbV7V9QDRH0/edit?usp=sharing) |
 |    4     | Landing page        | 11.10, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1-HdAGas5rJO5yxaJ2xBq6ZeTir4XIgHT19OC6B9YM20/edit?usp=sharing) |
-|    5     | -                   | -          |   -   | Em breve        |
+|    5     | Protipação          | 25.10, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1UyrIqF4mwVkGfVX8ZEVx9r0HG1xiRGKFex__00L_gbk/edit?usp=sharing) |
 |    6     | Doc. Final          | -          |   -   | Em breve        |
 |    7     | Apresentação        | -          |   -   | Em breve        |
 
