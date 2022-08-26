@@ -33,7 +33,7 @@ As entregas do projeto estão definidas na tabela abaixo. Acesse o docuemnto com
 |:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
 |    1     | Formação de equipes | 02.09, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1WJ147vjFmjS4DCl0_S17NnDZonsWNw0_chZ2gSZnAOo/edit?usp=sharing) |
 |    2     | TAP                 | 16.09, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1SzEpnELRyGvnlEhvjK_bFq3kFSdL-r96mmoO531jgSM/edit?usp=sharing) | 
-|    3     | -                   | -          |   -   | Em breve        |
+|    3     | Requisitos          | 27.09, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1UfJK2T3Xr0dvTpH3j9YqpXSk431MZyY2BwpBEBwU8eE/edit?usp=sharing) |
 |    4     | -                   | -          |   -   | Em breve        |
 |    5     | -                   | -          |   -   | Em breve        |
 |    6     | Doc. Final          | -          |   -   | Em breve        |
