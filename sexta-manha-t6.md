@@ -32,8 +32,8 @@ As entregas do projeto estão definidas na tabela abaixo (será montada em breve
 |    2     | Definição do Negócio | 16.09, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1HXxUGNbR9aS3p3J_quFc0VPVkZDLJbJS_sRn4JuYJsk/edit?usp=sharing) |
 |    3     | Estratégias de Mkt   | 30.09, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1GMZG3Xj6AkKrStNgVnjoppvUGmdV3rxdhkAjGprtmYo/edit?usp=sharing) |
 |    4     | Qualidade de SW      | 14.10, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1HgcdabonQv4bW-j18DHUVdcekXj0mxhfvwRL5pqzIaE/edit?usp=sharing) |
-|    5     | Disciplinas: SIG e GC| 28.10, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1Yc-lwEm8LEx5lRXj9ycrO54SNS6syyhAIWd73WD-1hY/edit?usp=sharing) |
-|    6     | Disciplinas: GE e IC | -          |   1   | Em breve        |
+|    5     | Disciplinas: SIG e GC| 28.10, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1Yc-lwEm8LEx5lRXj9ycrO54SNS6syyhAIWd73WD-1hY/edit?usp=sharing) |
+|    6     | Disciplinas: GE e IC | 11.11, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1AYRMwHmBp8LGBtuRgcAwewMu139mFKClRBmk-0h9s5s/edit?usp=sharing) |
 |    7     | Doc. Final           | -          |   -   | Em breve        |
 |    8     | Apresentação         | -          |   -   | Em breve        |
 
