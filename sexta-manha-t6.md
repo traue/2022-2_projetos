@@ -26,15 +26,16 @@ Se você chegou à disciplina após seu início, leia cada uma das ATAs em ordem
 
 As entregas do projeto estão definidas na tabela abaixo (será montada em breve).
 
-| Deadline |      Descrição      | Prazo      | Valor | Detalhamento                                                                                                    |
-|:--------:|:-------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
-|    1     | Formação de equipes | 09.09, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1UMGULClScnbdKANkGfLjZZfZNRJyhFNxXsu1A8xK6WA/edit?usp=sharing) |
-|    2     | Definição do Negócio| 16.09, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1HXxUGNbR9aS3p3J_quFc0VPVkZDLJbJS_sRn4JuYJsk/edit?usp=sharing) |
-|    3     | Estratégias de Mkt  | 30.09, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1GMZG3Xj6AkKrStNgVnjoppvUGmdV3rxdhkAjGprtmYo/edit?usp=sharing) |
-|    4     | Qualidade de SW     | 14.10, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1HgcdabonQv4bW-j18DHUVdcekXj0mxhfvwRL5pqzIaE/edit?usp=sharing) |
-|    5     | -                   | -          |   -   | Em breve        |
-|    6     | Doc. Final          | -          |   -   | Em breve        |
-|    7     | Apresentação        | -          |   -   | Em breve        |
+| Deadline |      Descrição       | Prazo      | Valor | Detalhamento                                                                                                    |
+|:--------:|:--------------------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------:|
+|    1     | Formação de equipes  | 09.09, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1UMGULClScnbdKANkGfLjZZfZNRJyhFNxXsu1A8xK6WA/edit?usp=sharing) |
+|    2     | Definição do Negócio | 16.09, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1HXxUGNbR9aS3p3J_quFc0VPVkZDLJbJS_sRn4JuYJsk/edit?usp=sharing) |
+|    3     | Estratégias de Mkt   | 30.09, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1GMZG3Xj6AkKrStNgVnjoppvUGmdV3rxdhkAjGprtmYo/edit?usp=sharing) |
+|    4     | Qualidade de SW      | 14.10, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1HgcdabonQv4bW-j18DHUVdcekXj0mxhfvwRL5pqzIaE/edit?usp=sharing) |
+|    5     | Disciplinas: SIG e GC| 28.10, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1Yc-lwEm8LEx5lRXj9ycrO54SNS6syyhAIWd73WD-1hY/edit?usp=sharing) |
+|    6     | Disciplinas: GE e IC | -          |   1   | Em breve        |
+|    7     | Doc. Final           | -          |   -   | Em breve        |
+|    8     | Apresentação         | -          |   -   | Em breve        |
 
 ## Disciplinas do módulo
 
@@ -42,6 +43,7 @@ As entregas do projeto estão definidas na tabela abaixo (será montada em breve
 - Gestão do Conhecimento - Prof. Anderson
 - Sistemas Integrados de Gestão - Prof. Sergio João
 - Governança estratégica - Prof. Rivas
+- Inteligência Competitica - EaD
 - Ciência de Dados - Prof. Edson
 
 ## Dúvidas sobre o projeto
