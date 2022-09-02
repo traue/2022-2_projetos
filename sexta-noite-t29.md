@@ -42,8 +42,8 @@ As entregas do projeto estão definidas na tabela abaixo. Acesse o docuemnto com
 
 ## Disciplinas do módulo
 
-- Programação para BD - Prof. Penha
-- Ciência de Dados - Prof. Storopoli
+- Programação para BD - Prof. Wanderlei
+- Ciência de Dados - ?
 - Programação Visual - Prof. Romualdo
 - Computação Móvel - Prof. Traue
 - Aplicações OO - Prof Traue
