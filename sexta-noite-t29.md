@@ -35,7 +35,7 @@ As entregas do projeto estão definidas na tabela abaixo. Acesse o docuemnto com
 |    2     | TAP                 | 16.09, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1SzEpnELRyGvnlEhvjK_bFq3kFSdL-r96mmoO531jgSM/edit?usp=sharing) |
 |    3     | Requisitos          | 27.09, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1UfJK2T3Xr0dvTpH3j9YqpXSk431MZyY2BwpBEBwU8eE/edit?usp=sharing) |
 |    4     | Landing Page        | 04.10, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1fIKnb-lky0ZUiwJT115bTBlZwDzXGCYzaKSRBmD_1HQ/edit?usp=sharing) |
-|    5     | Prototipação        | -          |   -   | Em breve        |
+|    5     | Prototipação        | 14.10, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1I7JL630oPw3fFJasTBIGpCzeB5JinmbyypzTZDWhhMc/edit?usp=sharing) |
 |    6     | Implementação       | -          |   -   | Em breve        |
 |    7     | Doc. Final          | -          |   -   | Em breve        |
 |    8     | Apresentação        | -          |   -   | Em breve        |
