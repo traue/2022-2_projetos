@@ -34,8 +34,8 @@ As entregas do projeto estão definidas na tabela abaixo (será montada em breve
 |    4     | Qualidade de SW      | 14.10, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1HgcdabonQv4bW-j18DHUVdcekXj0mxhfvwRL5pqzIaE/edit?usp=sharing) |
 |    5     | Disciplinas: SIG e GC| 28.10, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1Yc-lwEm8LEx5lRXj9ycrO54SNS6syyhAIWd73WD-1hY/edit?usp=sharing) |
 |    6     | Disciplinas: GE e IC | 11.11, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1AYRMwHmBp8LGBtuRgcAwewMu139mFKClRBmk-0h9s5s/edit?usp=sharing) |
-|    7     | Doc. Final           | -          |   -   | Em breve        |
-|    8     | Apresentação         | -          |   -   | Em breve        |
+|    7     | Doc. Final           | 02.12, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1r4gh26SPNXKWuvnpSD3KT4AUMAjT5keqaWn1wJ_alnM/edit?usp=sharing) |
+|    8     | Apresentação         | 02.12, 11h |Até +2 |[Detalhamento](https://docs.google.com/document/d/1r4gh26SPNXKWuvnpSD3KT4AUMAjT5keqaWn1wJ_alnM/edit?usp=sharing) |
 
 ## Disciplinas do módulo
 
