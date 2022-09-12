@@ -30,7 +30,7 @@ As entregas do projeto estão definidas na tabela abaixo. Acesse o docuemnto com
 |    2     | Definição do Tema   | 19.09, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1QQhnsOZsoypuBplGWQbSb9W6QrP98o7Cb3FjycH1k8s/edit?usp=sharing) |
 |    3     | Arquitetura         | 03.10, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1G2cmvIVfmwCdX0U1OocymG9BNE__ylVN9mk-CLRhYIc/edit?usp=sharing) |
 |    4     | Prototipação        | 24.10, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1wCs6YJUngJcjhi8CE3Lf26amqMVsi_e8oU0GF5Wz8kU/edit?usp=sharing) |
-|    5     | Implementação       | 21.11, 11h |   2   | Em breve        |
+|    5     | Implementação       | 21.11, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1wUGZt2pOjWGOdeQNE5uiAXcXLQBYQoQLtCHxIrywnb4/edit?usp=sharing) |
 |    6     | Doc. Final          | 05.12, 11h |   1   | Em breve        |
 |    7     | Apresentação        | 05.12, 11h | Até 2+| Em breve        |
 
