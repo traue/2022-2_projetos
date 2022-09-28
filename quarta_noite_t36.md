@@ -31,9 +31,9 @@ As entregas do projeto estão definidas na tabela abaixo (será montada em breve
 |    3     | Definição da IA     | 05.10, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1_N2IB1mpdq_9VduDOQsLRplIB4zAhqAn1MHYpYAdaz8/edit?usp=sharing) |
 |    4     | Landing page        | 12.10, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1n8x7EsrzkS5AGE14RxRLHvGPKrFJxP-YXVhYJ71pLsE/edit?usp=sharing) |
 |    5     | Prototipação        | 26.10, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1W4DHryfbnXMvc1fvlhul5jDVwcObQ_ZZq_0EfNZiHic/edit?usp=sharing) |
-|    6     | Demonstração        | -          |   2   | Em breve        |
-|    7     | Doc. Final          | -          |   -   | Em breve        |
-|    8     | Apresentação        | -          |   -   | Em breve        |
+|    6     | Demonstração        | 16.11, 18h |   2   |[Detalhamento](https://docs.google.com/document/d/1wjRSpeqckFfnqPShVguysqUWr8yzcCb4r_UOhFVBI-8/edit?usp=sharing) |
+|    7     | Doc. Final          | 30.11, 18h |   1   |[Detalhamento](https://docs.google.com/document/d/1mk4A3oJGQ49_QRr2I6jnATSuC9AnT3Dp2y0FzaRNAdU/edit?usp=sharing) |
+|    8     | Apresentação        | 30.11, 18h |Até +2 |[Detalhamento](https://docs.google.com/document/d/1mk4A3oJGQ49_QRr2I6jnATSuC9AnT3Dp2y0FzaRNAdU/edit?usp=sharing) |
 
 ## Disciplinas do módulo
 
