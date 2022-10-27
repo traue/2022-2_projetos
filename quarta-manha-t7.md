@@ -32,8 +32,8 @@ As entregas do projeto estão definidas na tabela abaixo (será montada em breve
 |    4     | Landing Page        | 19.10, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/16Ye75wUGG44SU6HRoD436XkaQ4lzekwxeLpA6d__5is/edit?usp=sharing) |
 |    5     | Prototipação        | 03.11, 11h |   2   |[Detalhamento](https://docs.google.com/document/d/1g-XcoTlgf2muzuzvDv8YqsR1-TNA4n562idVXMdxif4/edit?usp=sharing) |
 |    6     | BD                  | 09.11, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/1aKP4XnjkG2oK6uA77Ylu8agYY_eeN-6Ti2NzjIdLAG0/edit?usp=sharing) |
-|    7     | Doc. Final          | 22.11, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/14j9XmXYe4uiA2mQidPEuvKQfHYRWSHp03Ez4oNescs0/edit?usp=sharing) |
-|    8     | Apresentação        | 22.11, 11h |Até +2 |[Detalhamento](https://docs.google.com/document/d/14j9XmXYe4uiA2mQidPEuvKQfHYRWSHp03Ez4oNescs0/edit?usp=sharing) |
+|    7     | Doc. Final          | 23.11, 11h |   1   |[Detalhamento](https://docs.google.com/document/d/14j9XmXYe4uiA2mQidPEuvKQfHYRWSHp03Ez4oNescs0/edit?usp=sharing) |
+|    8     | Apresentação        | 23.11, 11h |Até +2 |[Detalhamento](https://docs.google.com/document/d/14j9XmXYe4uiA2mQidPEuvKQfHYRWSHp03Ez4oNescs0/edit?usp=sharing) |
 
 ## Disciplinas do módulo
 
