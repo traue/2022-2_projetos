@@ -1,4 +1,4 @@
-# Projeto em Computação Aplicada
+# Projeto em Computação Aplicada - ENCERRADO
 
 Turma 5 - Segundas - Diurno
 

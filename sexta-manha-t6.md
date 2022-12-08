@@ -1,4 +1,4 @@
-# Projeto em Governança em TI
+# Projeto em Governança em TI - ENCERRADO
 
 Turma 6 - Sexta - Diurno
 

@@ -1,4 +1,4 @@
-# Projeto em Sistemas Inteligentes
+# Projeto em Sistemas Inteligentes - ENCERRADO
 
 Turma 32 - Terças e quintas - noturno
 

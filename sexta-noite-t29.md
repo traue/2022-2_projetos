@@ -1,4 +1,4 @@
-# Projeto de Desenvolvimento de App Multiplataforma
+# Projeto de Desenvolvimento de App Multiplataforma - ENCERRADO
 
 Turma 29
 

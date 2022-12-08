@@ -1,4 +1,4 @@
-# Projeto em Desenvolvimento de Software
+# Projeto em Desenvolvimento de Software - ENCERRADO
 
 Turma 7 - Quartas e quintas - Diurno
 
